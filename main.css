@@ -1,0 +1,89 @@
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.navbarcss{
+	background-color: #cddc39;
+	padding: 0px;
+}
+
+.navbarlogo{
+	padding-top: 0px;
+}
+
+.navbartwo{
+	background-color: orange;
+	
+}
+
+.homepagetext{
+	font-size: 16px;
+}
+
+.homepagetextbox{
+	border:1px solid green ;
+	padding-top: 2px; 
+}
+
+.featured{
+    
+    padding: 0px;
+}
+
+.featuredmovie{
+	text-align: center;
+	
+}
+
+.myfeaturedmovie{
+	color: orange;
+
+}
+
+.collapseitem{
+
+	font-size: 18px;
+	color: #9933CC;
+}
+
+.moviename {
+	color: #9933CC;
+}
+
+.movietime{
+	color: green;
+	border: 3px solid black;
+	clear: both;
+}
+
+.myjumbotron{
+	background-color: white;
+	padding: 0px;
+	
+}
+
+.myvenue{
+	font-weight: bold;
+	color: #FF8800;
+	font-size: 30px;
+
+}
+
+.myaddress{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.ticketalert{
+	color: green;
+}
+
+.registrationheader{
+	color:  #aa66cc;
+}
+
+.footercss{
+	background-color: #cddc39;
+	padding:5px;
+}
